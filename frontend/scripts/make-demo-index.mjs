@@ -1,0 +1,27 @@
+// Writes dist-demo/index.html so the preview opens by double-click (no server, no module loading).
+import { writeFileSync } from 'node:fs'
+
+writeFileSync('dist-demo/index.html', `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyHealthyDistrict</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%2040%2040%27%3E%3Cdefs%3E%3ClinearGradient%20id=%27g%27%20x1=%278%27%20y1=%272%27%20x2=%2732%27%20y2=%2738%27%20gradientUnits=%27userSpaceOnUse%27%3E%3Cstop%20offset=%270%27%20stop-color=%27%232a8b80%27/%3E%3Cstop%20offset=%271%27%20stop-color=%27%230f4a47%27/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath%20d=%27M20%2038.5S4.5%2026%204.5%2015.6a15.5%2015.5%200%200%201%2031%200C35.5%2026%2020%2038.5%2020%2038.5z%27%20fill=%27url%28%23g%29%27/%3E%3Cpath%20d=%27M20%2023.6s-7.9-4.9-7.9-10.1a4.2%204.2%200%200%201%207.9-1.9%204.2%204.2%200%200%201%207.9%201.9c0%205.2-7.9%2010.1-7.9%2010.1z%27%20fill=%27%23fff%27/%3E%3Cpath%20d=%27M13.6%2014.6h3.4l1.3-2.5%202.2%204.6%201.5-2.1h3.4%27%20fill=%27none%27%20stroke=%27%23e0694a%27%20stroke-width=%271.5%27%20stroke-linecap=%27round%27%20stroke-linejoin=%27round%27/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./demo.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="./demo.js"></script>
+  </body>
+</html>
+`)
+writeFileSync('dist-demo/README.txt', `MyHealthyDistrict - React website (preview build)
+
+1) Try it on your computer: double-click index.html. It opens in your browser. Nothing to install.
+   Sign in with the "Fill in Maya" button.
+2) Get a public web address: go to https://app.netlify.com/drop and drag this whole folder onto the page.
+   (Vercel, Cloudflare Pages and GitHub Pages also work: upload these 3 files as a static site.)
+
+Data is sample data and stays in your own browser. Nothing is sent anywhere.
+`)

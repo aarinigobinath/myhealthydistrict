@@ -1,0 +1,28 @@
+# One command to run everything:   docker compose up --build
+# Then open http://localhost:8000
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: mhd
+      POSTGRES_PASSWORD: mhd_dev_pw
+      POSTGRES_DB: mhd
+    volumes:
+      - mhd-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mhd"]
+      interval: 5s
+      retries: 10
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      MHD_DATABASE_URL: postgresql+psycopg2://mhd:mhd_dev_pw@db:5432/mhd
+      MHD_SECRET_KEY: ${MHD_SECRET_KEY:-dev-only-change-me-please-0123456789abcdef}
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+volumes:
+  mhd-data:

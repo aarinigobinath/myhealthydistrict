@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Start the API on :8000 (Postgres must already be running).
+cd "$(dirname "$0")/../backend"
+. ../.venv/bin/activate 2>/dev/null || true
+exec uvicorn app.main:app --host 0.0.0.0 --port 8000

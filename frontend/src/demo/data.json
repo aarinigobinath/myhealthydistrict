@@ -1,0 +1,1933 @@
+{
+ "seed_version": "2026-10-22-b",
+ "topics": [
+  {
+   "id": 1,
+   "slug": "move-exercise",
+   "title": "Move & Exercise",
+   "blurb": "Jogging tracks, classes, races and ways to stay active.",
+   "icon": "run",
+   "keywords": [
+    "jog",
+    "jogging",
+    "run",
+    "running",
+    "walk",
+    "walking",
+    "exercise",
+    "fitness",
+    "workout",
+    "track",
+    "trail",
+    "bike",
+    "gym",
+    "active",
+    "sports",
+    "race",
+    "5k",
+    "stay active",
+    "start again"
+   ],
+   "sort": 0
+  },
+  {
+   "id": 2,
+   "slug": "preventive-care",
+   "title": "Preventive Care",
+   "blurb": "Shots, check-ups and screenings.",
+   "icon": "care",
+   "keywords": [
+    "flu",
+    "shot",
+    "shots",
+    "vaccine",
+    "immunization",
+    "checkup",
+    "check-up",
+    "screening",
+    "dental",
+    "wic"
+   ],
+   "sort": 1
+  },
+  {
+   "id": 3,
+   "slug": "recovery-rehab",
+   "title": "Recovery & Rehab",
+   "blurb": "Healing after surgery or injury, and keeping up while you do.",
+   "icon": "bandage",
+   "keywords": [
+    "surgery",
+    "injury",
+    "injured",
+    "knee",
+    "recover",
+    "recovery",
+    "rehab",
+    "therapy",
+    "cast",
+    "crutches",
+    "broken",
+    "bed",
+    "hospital",
+    "sprain",
+    "concussion"
+   ],
+   "sort": 2
+  },
+  {
+   "id": 4,
+   "slug": "mental-wellbeing",
+   "title": "Mental Wellbeing",
+   "blurb": "Peer groups, counseling and crisis lines.",
+   "icon": "smile",
+   "keywords": [
+    "stress",
+    "stressed",
+    "anxious",
+    "anxiety",
+    "sad",
+    "lonely",
+    "isolated",
+    "counseling",
+    "counselor",
+    "depress",
+    "mental",
+    "mood",
+    "stuck",
+    "overwhelmed",
+    "crisis"
+   ],
+   "sort": 3
+  },
+  {
+   "id": 5,
+   "slug": "nutrition-food",
+   "title": "Nutrition & Food",
+   "blurb": "Food help, healthy eating and WIC.",
+   "icon": "apple",
+   "keywords": [
+    "food",
+    "eat",
+    "eating",
+    "meal",
+    "hungry",
+    "pantry",
+    "groceries",
+    "budget",
+    "diet",
+    "nutrition",
+    "hydration",
+    "wic"
+   ],
+   "sort": 4
+  },
+  {
+   "id": 6,
+   "slug": "family-child",
+   "title": "Family & Child Health",
+   "blurb": "Care for kids, teens and new parents.",
+   "icon": "people",
+   "keywords": [
+    "baby",
+    "newborn",
+    "parent",
+    "child",
+    "kids",
+    "toddler",
+    "pregnant",
+    "teen",
+    "library",
+    "school"
+   ],
+   "sort": 5
+  },
+  {
+   "id": 7,
+   "slug": "seniors",
+   "title": "Seniors’ Health",
+   "blurb": "Programs for staying active and connected as you age.",
+   "icon": "people",
+   "keywords": [
+    "senior",
+    "seniors",
+    "elderly",
+    "dad",
+    "mom",
+    "older",
+    "retired",
+    "aging",
+    "grandparent",
+    "72"
+   ],
+   "sort": 6
+  },
+  {
+   "id": 8,
+   "slug": "living-with-condition",
+   "title": "Living with a Condition",
+   "blurb": "Support for diabetes, asthma and other long-term conditions.",
+   "icon": "care",
+   "keywords": [
+    "diabetes",
+    "asthma",
+    "chronic",
+    "condition",
+    "blood pressure",
+    "heart",
+    "cancer",
+    "arthritis"
+   ],
+   "sort": 7
+  },
+  {
+   "id": 9,
+   "slug": "parks-outdoors",
+   "title": "Parks & Outdoors",
+   "blurb": "County parks, preserves and lake access.",
+   "icon": "pin",
+   "keywords": [
+    "park",
+    "parks",
+    "outdoor",
+    "outdoors",
+    "nature",
+    "hike",
+    "hiking",
+    "lake",
+    "camp",
+    "picnic",
+    "playground",
+    "dog"
+   ],
+   "sort": 8
+  },
+  {
+   "id": 10,
+   "slug": "quit-recovery",
+   "title": "Quit & Recovery Support",
+   "blurb": "Help quitting smoking, vaping or substances.",
+   "icon": "smile",
+   "keywords": [
+    "quit",
+    "smoking",
+    "vaping",
+    "alcohol",
+    "addiction",
+    "drugs",
+    "sober"
+   ],
+   "sort": 9
+  },
+  {
+   "id": 11,
+   "slug": "getting-to-care",
+   "title": "Getting to Care",
+   "blurb": "Rides, telehealth and finding the right clinic.",
+   "icon": "car",
+   "keywords": [
+    "ride",
+    "appointment",
+    "transportation",
+    "telehealth",
+    "insurance",
+    "doctor",
+    "clinic",
+    "surgery",
+    "hospital",
+    "get to"
+   ],
+   "sort": 10
+  },
+  {
+   "id": 12,
+   "slug": "groups-events",
+   "title": "Groups & Events",
+   "blurb": "Find neighbors to move, heal and learn with.",
+   "icon": "people",
+   "keywords": [
+    "group",
+    "event",
+    "club",
+    "meetup",
+    "class"
+   ],
+   "sort": 11
+  }
+ ],
+ "options": [
+  {
+   "id": 1,
+   "topic": "recovery-rehab",
+   "slug": "remote-learning",
+   "title": "Remote learning options",
+   "summary": "Ways to keep up with school while you recover.",
+   "keywords": [
+    "school",
+    "class",
+    "classes",
+    "homework",
+    "student",
+    "high school",
+    "high schooler",
+    "teacher",
+    "study",
+    "exams",
+    "grades",
+    "homebound",
+    "virtual",
+    "learn",
+    "learning",
+    "surgery"
+   ],
+   "layout": "cards",
+   "sort": 0
+  },
+  {
+   "id": 2,
+   "topic": "recovery-rehab",
+   "slug": "physical-therapy",
+   "title": "Physical therapy clinics",
+   "summary": "Clinics that help you rebuild strength and movement.",
+   "keywords": [
+    "physical therapy",
+    "pt",
+    "rehab",
+    "knee",
+    "sports medicine"
+   ],
+   "layout": "cards",
+   "sort": 1
+  },
+  {
+   "id": 3,
+   "topic": "recovery-rehab",
+   "slug": "mobility-equipment",
+   "title": "Mobility equipment",
+   "summary": "Crutches, braces and other gear.",
+   "keywords": [
+    "crutches",
+    "brace",
+    "wheelchair",
+    "equipment"
+   ],
+   "layout": "cards",
+   "sort": 2
+  },
+  {
+   "id": 4,
+   "topic": "recovery-rehab",
+   "slug": "at-home-exercises",
+   "title": "At-home exercises",
+   "summary": "Gentle routines you can do from bed or a chair.",
+   "keywords": [
+    "exercises",
+    "stretch",
+    "stretching",
+    "bed"
+   ],
+   "layout": "cards",
+   "sort": 3
+  },
+  {
+   "id": 5,
+   "topic": "mental-wellbeing",
+   "slug": "crisis-and-peer-support",
+   "title": "Peer groups, counseling & crisis lines",
+   "summary": "People to talk to, any time.",
+   "keywords": [
+    "peer",
+    "counseling",
+    "988",
+    "crisis",
+    "talk"
+   ],
+   "layout": "cards",
+   "sort": 4
+  },
+  {
+   "id": 6,
+   "topic": "getting-to-care",
+   "slug": "rides-and-telehealth",
+   "title": "Rides to appointments & telehealth",
+   "summary": "Getting to a clinic, or seeing one from home.",
+   "keywords": [
+    "ride",
+    "rides",
+    "telehealth",
+    "appointment"
+   ],
+   "layout": "cards",
+   "sort": 5
+  },
+  {
+   "id": 7,
+   "topic": "preventive-care",
+   "slug": "clinics-and-shots",
+   "title": "Health department clinic & shots",
+   "summary": "County public health services.",
+   "keywords": [
+    "clinic",
+    "flu",
+    "shot",
+    "immunization",
+    "vaccine"
+   ],
+   "layout": "cards",
+   "sort": 6
+  },
+  {
+   "id": 8,
+   "topic": "move-exercise",
+   "slug": "jogging-track-locator",
+   "title": "Jogging track locator",
+   "summary": "Paths and parks around Forsyth where you can run or walk.",
+   "keywords": [
+    "jog",
+    "jogging",
+    "run",
+    "running",
+    "track",
+    "trail",
+    "path",
+    "greenway"
+   ],
+   "layout": "map",
+   "sort": 7
+  },
+  {
+   "id": 9,
+   "topic": "move-exercise",
+   "slug": "fitness-classes",
+   "title": "Fitness classes",
+   "summary": "Classes and rec centers.",
+   "keywords": [
+    "class",
+    "classes",
+    "gym",
+    "fitness"
+   ],
+   "layout": "cards",
+   "sort": 8
+  },
+  {
+   "id": 10,
+   "topic": "move-exercise",
+   "slug": "events-and-races",
+   "title": "Outdoor events and races",
+   "summary": "Where to find walks, runs and races.",
+   "keywords": [
+    "race",
+    "5k",
+    "event",
+    "events"
+   ],
+   "layout": "cards",
+   "sort": 9
+  },
+  {
+   "id": 11,
+   "topic": "move-exercise",
+   "slug": "adaptive-sports",
+   "title": "Adaptive sports",
+   "summary": "Programs for every ability.",
+   "keywords": [
+    "adaptive",
+    "disability",
+    "wheelchair"
+   ],
+   "layout": "cards",
+   "sort": 10
+  },
+  {
+   "id": 12,
+   "topic": "nutrition-food",
+   "slug": "food-help",
+   "title": "Food pantries & WIC",
+   "summary": "Free groceries and nutrition help.",
+   "keywords": [
+    "pantry",
+    "food",
+    "hungry",
+    "wic",
+    "groceries"
+   ],
+   "layout": "cards",
+   "sort": 11
+  },
+  {
+   "id": 13,
+   "topic": "nutrition-food",
+   "slug": "healthy-eating",
+   "title": "Healthy eating on a budget",
+   "summary": "Meal ideas and tips.",
+   "keywords": [
+    "budget",
+    "meal",
+    "recipes"
+   ],
+   "layout": "cards",
+   "sort": 12
+  },
+  {
+   "id": 14,
+   "topic": "family-child",
+   "slug": "kids-and-teens",
+   "title": "Kids & teens",
+   "summary": "Clinic, dental and library programs.",
+   "keywords": [
+    "kids",
+    "child",
+    "teen",
+    "library",
+    "dental"
+   ],
+   "layout": "cards",
+   "sort": 13
+  },
+  {
+   "id": 15,
+   "topic": "seniors",
+   "slug": "senior-programs",
+   "title": "Senior Services programs",
+   "summary": "Classes, trips and support.",
+   "keywords": [
+    "senior",
+    "fitness",
+    "older"
+   ],
+   "layout": "cards",
+   "sort": 14
+  },
+  {
+   "id": 16,
+   "topic": "living-with-condition",
+   "slug": "managing-conditions",
+   "title": "Managing a long-term condition",
+   "summary": "Care, therapy and support.",
+   "keywords": [
+    "diabetes",
+    "asthma",
+    "chronic"
+   ],
+   "layout": "cards",
+   "sort": 15
+  },
+  {
+   "id": 17,
+   "topic": "parks-outdoors",
+   "slug": "parks-directory",
+   "title": "County parks & preserves",
+   "summary": "Where to play, hike and relax.",
+   "keywords": [
+    "park",
+    "parks",
+    "hike",
+    "lake",
+    "playground"
+   ],
+   "layout": "cards",
+   "sort": 16
+  },
+  {
+   "id": 18,
+   "topic": "quit-recovery",
+   "slug": "quit-lines",
+   "title": "Quit lines & recovery help",
+   "summary": "Free coaching and crisis support.",
+   "keywords": [
+    "quit",
+    "smoking",
+    "vaping",
+    "alcohol"
+   ],
+   "layout": "cards",
+   "sort": 17
+  }
+ ],
+ "resources": [
+  {
+   "id": 1,
+   "option": "remote-learning",
+   "slug": "hospital-homebound-instruction",
+   "title": "A teacher comes to you (Hospital/Homebound)",
+   "description": "Georgia’s Hospital/Homebound (HHB) rule lets a student who will miss at least 10 school days (or has repeated 3-day absences from a chronic condition) get instruction at home. A treating physician signs a referral form, and the student must get at least 3 hours of instruction per school week. An adult must be present for each home session if the student is under 18.",
+   "good_if": "you can’t sit up for long or can’t travel, and your doctor says you can still learn at home.",
+   "address": "",
+   "phone": "",
+   "hours": "Ask your school counselor [COUNSELOR NAME] how Forsyth County Schools starts a referral.",
+   "url": "",
+   "source_url": "https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-160-4-2-.31",
+   "map_query": "",
+   "tags": [
+    "teacher-visits",
+    "doctor-note"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 0
+  },
+  {
+   "id": 2,
+   "option": "remote-learning",
+   "slug": "georgia-virtual-school",
+   "title": "Georgia Virtual School (GAVS)",
+   "description": "Forsyth County Schools lists Georgia Virtual School as an online course option for high schoolers. You complete the FCS Online Course Application in Infinite Campus first, then create your GAVS student account on the official sign-up page and add courses (A courses in fall, B in spring). Courses are only approved after the FCS application is done.",
+   "good_if": "recovery may last a semester or more and you want to earn credit online at your own pace.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "https://gavs.geniussis.com/PublicStudentAdd.aspx",
+   "source_url": "https://alliance.forsyth.k12.ga.us/student-support/counseling-department/online-courses-hs-courses-only",
+   "map_query": "",
+   "tags": [
+    "online-credit",
+    "semester"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 1
+  },
+  {
+   "id": 3,
+   "option": "remote-learning",
+   "slug": "forsyth-virtual-academy",
+   "title": "Forsyth Virtual Academy (FVA)",
+   "description": "A virtual program run by Forsyth County Schools’ Academies of Creative Education (ACE). It offers virtual courses for middle and high school (grades 6–12), with counseling, mentoring and getting-started guides. Registration windows are set each year, so check the page or ask your school counselor.",
+   "good_if": "you want a school-run online option and can check dates and courses with your counselor.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "https://ace.forsyth.k12.ga.us/forsyth-virtual-academy/our-program",
+   "source_url": "https://ace.forsyth.k12.ga.us/forsyth-virtual-academy/our-program",
+   "map_query": "",
+   "tags": [
+    "online-credit",
+    "school-run"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 2
+  },
+  {
+   "id": 4,
+   "option": "physical-therapy",
+   "slug": "northside-forsyth-outpatient-rehab",
+   "title": "Northside Hospital Forsyth Outpatient Rehabilitation",
+   "description": "Outpatient physical, occupational and speech therapy. Physical therapy services include sports medicine, orthopedics and spine, neuromuscular rehab, aquatic therapy, balance and gait analysis.",
+   "good_if": "you need a clinic for knee or sports-injury rehab.",
+   "address": "2000 Howard Farm Drive, Suite 120, Cumming, GA 30041",
+   "phone": "770-844-3650",
+   "hours": "Monday–Friday, 8:00 a.m.–5:00 p.m.",
+   "url": "https://www.northside.com/locations/northside-hospital-forsyth-outpatient-rehabilitation-services/1000",
+   "source_url": "https://www.northside.com/locations/northside-hospital-forsyth-outpatient-rehabilitation-services/1000",
+   "map_query": "",
+   "tags": [
+    "physical-therapy",
+    "sports-medicine"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 3
+  },
+  {
+   "id": 5,
+   "option": "mobility-equipment",
+   "slug": "equipment-loans",
+   "title": "Crutches, braces and loaner equipment",
+   "description": "Many surgeons’ offices and hospitals can tell you where to get or borrow mobility equipment. [Add a Forsyth County equipment loan program here after confirming it exists.]",
+   "good_if": "you were just told you’ll need crutches or a brace.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "equipment"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 4
+  },
+  {
+   "id": 6,
+   "option": "at-home-exercises",
+   "slug": "gentle-routine",
+   "title": "A gentle routine from your physical therapist",
+   "description": "Your PT or surgeon can give you safe exercises for the bed or a chair. Ask for a written or video plan before you leave the clinic.",
+   "good_if": "you are cleared for gentle movement but can’t get to a clinic yet.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "at-home"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 5
+  },
+  {
+   "id": 7,
+   "option": "crisis-and-peer-support",
+   "slug": "988-lifeline",
+   "title": "988 Suicide & Crisis Lifeline",
+   "description": "Call or text 988, any time, for free and confidential support in a crisis. In an emergency, call 911.",
+   "good_if": "you or someone you know is in emotional distress.",
+   "address": "",
+   "phone": "988",
+   "hours": "24 hours a day, every day",
+   "url": "https://988lifeline.org",
+   "source_url": "https://988lifeline.org",
+   "map_query": "",
+   "tags": [
+    "crisis",
+    "free"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 6
+  },
+  {
+   "id": 8,
+   "option": "crisis-and-peer-support",
+   "slug": "georgia-crisis-access-line",
+   "title": "Georgia Crisis & Access Line (GCAL)",
+   "description": "Georgia’s 24/7 line for behavioral health crisis help and referrals.",
+   "good_if": "you want help finding mental health or substance use services in Georgia.",
+   "address": "",
+   "phone": "1-800-715-4225",
+   "hours": "24 hours a day, every day",
+   "url": "https://dbhdd.georgia.gov",
+   "source_url": "https://dbhdd.georgia.gov",
+   "map_query": "",
+   "tags": [
+    "crisis",
+    "free"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 7
+  },
+  {
+   "id": 9,
+   "option": "crisis-and-peer-support",
+   "slug": "school-counselor",
+   "title": "Your school counselor",
+   "description": "Counselors can talk with you about stress, school and next steps. [COUNSELOR NAME]",
+   "good_if": "school stress is part of what you’re feeling.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "school"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 8
+  },
+  {
+   "id": 10,
+   "option": "rides-and-telehealth",
+   "slug": "rides-to-appointments",
+   "title": "Rides to appointments",
+   "description": "[Add a Forsyth County ride program here after confirming it exists and who it serves.] Ask your clinic whether it offers or arranges rides.",
+   "good_if": "you can’t drive after surgery.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "rides"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 9
+  },
+  {
+   "id": 11,
+   "option": "rides-and-telehealth",
+   "slug": "telehealth-visits",
+   "title": "Telehealth visits",
+   "description": "Ask your doctor’s office whether follow-up visits can be done by video.",
+   "good_if": "traveling is hard right now.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "telehealth"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 10
+  },
+  {
+   "id": 12,
+   "option": "clinics-and-shots",
+   "slug": "health-department-immunizations",
+   "title": "Forsyth County Health Department (Clinical Services)",
+   "description": "Public health clinic with Child and Adolescent Health, Women’s Health, Children’s Dental Clinic, Adult Health, a Travel Clinic and WIC. Some services are by appointment only, so call first. Ask about flu and other shots.",
+   "good_if": "you want vaccines or a low-barrier public health clinic.",
+   "address": "428 Canton Hwy, Cumming, GA 30040",
+   "phone": "770-781-6900",
+   "hours": "Mon, Wed, Thu 8–5; Tue 8–7; Fri 8–12 (closed 12:30–1 Mon–Thu). Closes some days each month, so call.",
+   "url": "http://forsythhd.com/",
+   "source_url": "http://forsythhd.com/",
+   "map_query": "",
+   "tags": [
+    "vaccines",
+    "wic",
+    "county"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 11
+  },
+  {
+   "id": 13,
+   "option": "jogging-track-locator",
+   "slug": "big-creek-greenway",
+   "title": "Big Creek Greenway",
+   "description": "Forsyth’s flagship paved trail: just over 16.5 miles from Halcyon to Sawnee Mountain Preserve for walking, running and biking, with about one mile of boardwalk near Union Hill. Trailheads: Halcyon (6265 Cortland Walk), Union Hill (5259 Union Hill Rd), Fowler Park (4110 Carolene Way), Bethelview (5120 Bethelview Rd), Sawnee Mountain Preserve (4075 Spot Rd). A section from Fowler Park north to the Bethelview Trailhead has been closed for renovation since Feb. 25, 2026, so check the county page before you go. A roughly one-mile gap along SR 20 is planned to be connected with GDOT’s Canton Highway widening.",
+   "good_if": "you want a long, flat, mostly shaded run you can shorten whenever you need to.",
+   "address": "Trailheads: Halcyon, Union Hill, Fowler Park, Bethelview, Sawnee",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/big-creek-greenway/",
+   "source_url": "https://www.forsythco.com/News/ribbon-cutting-ceremony-set-for-big-creek-greenway-extension2",
+   "map_query": "Big Creek Greenway Fowler Park Trailhead, 4110 Carolene Way, Cumming, GA",
+   "tags": [
+    "paved",
+    "flat",
+    "boardwalk"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 12
+  },
+  {
+   "id": 14,
+   "option": "jogging-track-locator",
+   "slug": "fowler-park",
+   "title": "Fowler Park",
+   "description": "County park with sports fields, a skate park, a dog park and trails; it is also a Big Creek Greenway trailhead.",
+   "good_if": "you want an easy first outing with parking and restrooms nearby.",
+   "address": "4110 Carolene Way, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/fowler-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Fowler Park, 4110 Carolene Way, Cumming, GA",
+   "tags": [
+    "paved",
+    "trail",
+    "parking"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 13
+  },
+  {
+   "id": 15,
+   "option": "jogging-track-locator",
+   "slug": "central-park-recreation-center",
+   "title": "Central Park Recreation Center",
+   "description": "Recreation center with sports fields and disc golf, and home of Senior Services wellness programs.",
+   "good_if": "you want a rec center and fields in one place.",
+   "address": "2300 Keith Bridge Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/central-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Central Park, 2300 Keith Bridge Rd, Cumming, GA",
+   "tags": [
+    "rec-center",
+    "fields"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 14
+  },
+  {
+   "id": 16,
+   "option": "jogging-track-locator",
+   "slug": "bennett-park",
+   "title": "Bennett Park",
+   "description": "The county’s oldest park, reopened in April 2026 after a $25.8 million renovation. It now has new paved and nature trails, plus turf fields, courts, a playground and a community building.",
+   "good_if": "you want a short paved loop at a newly renovated park.",
+   "address": "6050 Burruss Mill Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/bennett-park/",
+   "source_url": "https://hoodline.com/2026/04/forsyth-s-oldest-park-gets-25-8m-glow-up-as-bennett-reopens-big-for-families/",
+   "map_query": "Bennett Park, 6050 Burruss Mill Rd, Cumming, GA",
+   "tags": [
+    "paved",
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 15
+  },
+  {
+   "id": 17,
+   "option": "jogging-track-locator",
+   "slug": "eagles-beak-park",
+   "title": "Eagle’s Beak Park",
+   "description": "A 1.25-mile easy paved loop, a little over a mile of dirt nature trail and a kayak launch on the Etowah River.",
+   "good_if": "you want a short, easy loop.",
+   "address": "Cumming, GA (tap the map link for directions)",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/eagles-beak-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Eagle's Beak Park, Cumming, GA",
+   "tags": [
+    "paved",
+    "under-2-miles",
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 16
+  },
+  {
+   "id": 18,
+   "option": "jogging-track-locator",
+   "slug": "caney-creek-preserve",
+   "title": "Caney Creek Preserve",
+   "description": "A 1.2-mile easy wooded loop.",
+   "good_if": "you want a short, soft-surface walk or jog.",
+   "address": "2755 Caney Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/caney-creek-preserve/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Caney Creek Preserve, 2755 Caney Rd, Cumming, GA",
+   "tags": [
+    "under-2-miles",
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 17
+  },
+  {
+   "id": 19,
+   "option": "jogging-track-locator",
+   "slug": "sharon-springs-park",
+   "title": "Sharon Springs Park",
+   "description": "Tennis, a paved trail and a playground.",
+   "good_if": "you want a paved path near other activities.",
+   "address": "1950 Sharon Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/sharon-springs-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Sharon Springs Park, 1950 Sharon Rd, Cumming, GA",
+   "tags": [
+    "paved"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 18
+  },
+  {
+   "id": 20,
+   "option": "jogging-track-locator",
+   "slug": "windermere-park",
+   "title": "Windermere Park",
+   "description": "A dog park, nature path and paved trail.",
+   "good_if": "you want a paved path and a quieter nature path.",
+   "address": "3355 Windermere Pkwy, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/windermere-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Windermere Park, 3355 Windermere Pkwy, Cumming, GA",
+   "tags": [
+    "paved",
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 19
+  },
+  {
+   "id": 21,
+   "option": "jogging-track-locator",
+   "slug": "ducktown-park",
+   "title": "Ducktown Park",
+   "description": "A pavilion, fitness playground and running path.",
+   "good_if": "you want a path plus outdoor fitness equipment.",
+   "address": "5895 Heardsville Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/ducktown-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Ducktown Park, 5895 Heardsville Rd, Cumming, GA",
+   "tags": [
+    "running-path"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 20
+  },
+  {
+   "id": 22,
+   "option": "jogging-track-locator",
+   "slug": "midway-park",
+   "title": "Midway Park",
+   "description": "Sports fields, tennis and a walking trail.",
+   "good_if": "you want an easy walking route.",
+   "address": "5100 Post Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/midway-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Midway Park, 5100 Post Rd, Cumming, GA",
+   "tags": [
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 21
+  },
+  {
+   "id": 23,
+   "option": "jogging-track-locator",
+   "slug": "sawnee-mountain-preserve",
+   "title": "Sawnee Mountain Preserve – Indian Seats Trail",
+   "description": "A 4-mile, moderate trail with about 500 feet of climbing to an overlook; the out-and-back from the visitor center is about 1.5 miles. Dogs are not allowed on the trails.",
+   "good_if": "you are further along and want hills and views.",
+   "address": "4075 Spot Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/sawnee-mountain-preserve/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Sawnee Mountain Preserve, 4075 Spot Rd, Cumming, GA",
+   "tags": [
+    "hilly",
+    "trail"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 22
+  },
+  {
+   "id": 24,
+   "option": "fitness-classes",
+   "slug": "senior-fitness-classes",
+   "title": "Senior Services fitness classes",
+   "description": "Fitness classes every weekday at no charge to members, plus art classes, lifelong learning, day trips and social groups.",
+   "good_if": "you or a family member is a senior who wants to stay active.",
+   "address": "Sexton Hall, 2115 Chloe Rd, Cumming, GA 30041; Central Park, 2300 Keith Bridge Rd",
+   "phone": "(770) 781-2178",
+   "hours": "",
+   "url": "https://www.forsythco.com/seniors",
+   "source_url": "https://www.forsythco.com/seniors",
+   "map_query": "",
+   "tags": [
+    "seniors",
+    "free-for-members"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 23
+  },
+  {
+   "id": 25,
+   "option": "events-and-races",
+   "slug": "parks-and-rec-events",
+   "title": "Forsyth County Parks & Recreation",
+   "description": "The county’s parks department posts activity guides and events. Check it for current races, walks and classes.",
+   "good_if": "you want to see what’s on this season.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "https://parks.forsythco.com",
+   "source_url": "https://parks.forsythco.com",
+   "map_query": "",
+   "tags": [
+    "events"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 24
+  },
+  {
+   "id": 26,
+   "option": "adaptive-sports",
+   "slug": "adaptive-programs",
+   "title": "Adaptive sports programs",
+   "description": "[Add an adaptive sports program here after confirming one in Forsyth County.] Ask Parks & Recreation what exists.",
+   "good_if": "you want to play sports with equipment or rules made for your body.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "adaptive"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 25
+  },
+  {
+   "id": 27,
+   "option": "food-help",
+   "slug": "the-place-of-forsyth-food-pantry",
+   "title": "The Place of Forsyth – food pantry",
+   "description": "A nonprofit in Cumming serving the county since 1975. Client-choice food pantry; first-time visitors get an emergency bag of food and paperwork to register. The listing’s hours may be out of date, so call first.",
+   "good_if": "you need groceries this week.",
+   "address": "2550 The Place Circle, Cumming, GA 30040",
+   "phone": "770-887-1098",
+   "hours": "Listed as Tue–Thu 9 a.m.–1 p.m. (call to confirm)",
+   "url": "https://ampleharvest.org/food-pantries/the-place-of-forsyth-food-pantry-427/",
+   "source_url": "https://ampleharvest.org/food-pantries/the-place-of-forsyth-food-pantry-427/",
+   "map_query": "",
+   "tags": [
+    "free",
+    "groceries"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 26
+  },
+  {
+   "id": 28,
+   "option": "food-help",
+   "slug": "wic-health-department",
+   "title": "WIC at the Forsyth County Health Department",
+   "description": "Nutrition support for pregnant and new moms, babies and young children, offered at the county health department.",
+   "good_if": "you’re pregnant or caring for a child under 5.",
+   "address": "428 Canton Hwy, Cumming, GA 30040",
+   "phone": "770-781-6900",
+   "hours": "",
+   "url": "http://forsythhd.com/",
+   "source_url": "http://forsythhd.com/",
+   "map_query": "",
+   "tags": [
+    "wic",
+    "county"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 27
+  },
+  {
+   "id": 29,
+   "option": "healthy-eating",
+   "slug": "budget-meals",
+   "title": "Healthy meals on a budget",
+   "description": "[Add a local nutrition class or recipe resource here after confirming one.]",
+   "good_if": "you’re cooking for a family on a tight budget.",
+   "address": "",
+   "phone": "",
+   "hours": "",
+   "url": "",
+   "source_url": "",
+   "map_query": "",
+   "tags": [
+    "budget"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": false,
+   "sort": 28
+  },
+  {
+   "id": 30,
+   "option": "kids-and-teens",
+   "slug": "health-dept-child-health",
+   "title": "Child & Adolescent Health and Children’s Dental Clinic",
+   "description": "Offered through the Forsyth County Health Department. Some services are by appointment only.",
+   "good_if": "your child needs routine care or dental care.",
+   "address": "428 Canton Hwy, Cumming, GA 30040",
+   "phone": "770-781-6900",
+   "hours": "",
+   "url": "http://forsythhd.com/",
+   "source_url": "http://forsythhd.com/",
+   "map_query": "",
+   "tags": [
+    "children",
+    "dental"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 29
+  },
+  {
+   "id": 31,
+   "option": "kids-and-teens",
+   "slug": "sharon-forks-library",
+   "title": "Forsyth County Public Library – Sharon Forks Library",
+   "description": "Library programs, quiet study space and free events. Other branches: Cumming, Denmark, Hampton Park, Post Road, and a Bookmobile.",
+   "good_if": "you want a free place to study, read or join a program.",
+   "address": "2820 Old Atlanta Road, Cumming, GA 30041",
+   "phone": "770-781-9840, option 7",
+   "hours": "Mon–Thu 9–9, Fri–Sat 10–5:30, Sun 1:30–5:30 (week of Oct 19, 2026)",
+   "url": "https://forsythpl.org/sharon-forks-library",
+   "source_url": "https://forsythpl.org/sharon-forks-library",
+   "map_query": "",
+   "tags": [
+    "library",
+    "free"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 30
+  },
+  {
+   "id": 32,
+   "option": "senior-programs",
+   "slug": "senior-services",
+   "title": "Forsyth County Senior Services",
+   "description": "Two centers with fitness, art, lifelong learning, day trips, hikes and social groups.",
+   "good_if": "you or a parent wants to stay active and connected.",
+   "address": "Sexton Hall, 2115 Chloe Rd, Cumming, GA 30041 · Central Park, 2300 Keith Bridge Rd",
+   "phone": "(770) 781-2178",
+   "hours": "",
+   "url": "https://www.forsythco.com/seniors",
+   "source_url": "https://www.forsythco.com/seniors",
+   "map_query": "",
+   "tags": [
+    "seniors"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 31
+  },
+  {
+   "id": 33,
+   "option": "managing-conditions",
+   "slug": "adult-health-clinic",
+   "title": "Adult Health at the county health department",
+   "description": "Adult health services at the county clinic. Call to ask what is available for your condition.",
+   "good_if": "you need a low-cost starting point for long-term care.",
+   "address": "428 Canton Hwy, Cumming, GA 30040",
+   "phone": "770-781-6900",
+   "hours": "",
+   "url": "http://forsythhd.com/",
+   "source_url": "http://forsythhd.com/",
+   "map_query": "",
+   "tags": [
+    "adult"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 32
+  },
+  {
+   "id": 34,
+   "option": "parks-directory",
+   "slug": "sawnee-mountain-preserve-park",
+   "title": "Sawnee Mountain Preserve",
+   "description": "963 acres of ridge and forest with hiking trails, a zipline and a climbing tower. Dogs are not allowed on the trails.",
+   "good_if": "",
+   "address": "4075 Spot Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/sawnee-mountain-preserve/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Sawnee Mountain Preserve, 4075 Spot Rd, Cumming, GA",
+   "tags": [
+    "hiking"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 33
+  },
+  {
+   "id": 35,
+   "option": "parks-directory",
+   "slug": "charleston-park",
+   "title": "Charleston Park",
+   "description": "Lake Lanier boat ramps and picnic areas; about 5.5 miles of rolling singletrack along the shoreline.",
+   "good_if": "",
+   "address": "5850 Charleston Park Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/charleston-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Charleston Park, 5850 Charleston Park Rd, Cumming, GA",
+   "tags": [
+    "lake",
+    "mountain-biking"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 34
+  },
+  {
+   "id": 36,
+   "option": "parks-directory",
+   "slug": "haw-creek-park",
+   "title": "Haw Creek Park",
+   "description": "Mountain bike trails.",
+   "good_if": "",
+   "address": "2205 Echols Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/haw-creek-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Haw Creek Park, 2205 Echols Rd, Cumming, GA",
+   "tags": [
+    "mountain-biking"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 35
+  },
+  {
+   "id": 37,
+   "option": "parks-directory",
+   "slug": "matt-community-park",
+   "title": "Matt Community Park",
+   "description": "Mountain bike trails.",
+   "good_if": "",
+   "address": "6555 Wallace Tatum Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/matt-community-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Matt Community Park, 6555 Wallace Tatum Rd, Cumming, GA",
+   "tags": [
+    "mountain-biking"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 36
+  },
+  {
+   "id": 38,
+   "option": "parks-directory",
+   "slug": "coal-mountain-park",
+   "title": "Coal Mountain Park",
+   "description": "Ball fields, tennis, a walking trail and a dog park.",
+   "good_if": "",
+   "address": "3560 Settingdown Rd, Cumming, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/coal-mountain-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Coal Mountain Park, 3560 Settingdown Rd, Cumming, GA",
+   "tags": [
+    "dog-park"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 37
+  },
+  {
+   "id": 39,
+   "option": "parks-directory",
+   "slug": "old-atlanta-park",
+   "title": "Old Atlanta Park",
+   "description": "A splash pad.",
+   "good_if": "",
+   "address": "810 Nichols Rd, Suwanee, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/old-atlanta-park/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Old Atlanta Park, 810 Nichols Rd, Suwanee, GA",
+   "tags": [
+    "splash-pad"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 38
+  },
+  {
+   "id": 40,
+   "option": "parks-directory",
+   "slug": "chattahoochee-pointe",
+   "title": "Chattahoochee Pointe",
+   "description": "Chattahoochee River park with disc golf.",
+   "good_if": "",
+   "address": "5790 Chattahoochee Pointe Dr, Suwanee, GA",
+   "phone": "",
+   "hours": "",
+   "url": "https://www.forsythco.com/locations/chattahoochee-pointe/",
+   "source_url": "https://discoverfoco.com/things-to-do/",
+   "map_query": "Chattahoochee Pointe, 5790 Chattahoochee Pointe Dr, Suwanee, GA",
+   "tags": [
+    "river"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 39
+  },
+  {
+   "id": 41,
+   "option": "quit-lines",
+   "slug": "national-quitline",
+   "title": "1-800-QUIT-NOW",
+   "description": "Free coaching to help you quit smoking or vaping. Connects you to your state’s quit line.",
+   "good_if": "you want to quit tobacco or vaping.",
+   "address": "",
+   "phone": "1-800-784-8669",
+   "hours": "",
+   "url": "https://smokefree.gov",
+   "source_url": "https://smokefree.gov",
+   "map_query": "",
+   "tags": [
+    "free",
+    "tobacco"
+   ],
+   "lat": null,
+   "lng": null,
+   "verified": true,
+   "sort": 40
+  }
+ ],
+ "groups": [
+  {
+   "id": 1,
+   "slug": "weekend-runners-club",
+   "name": "Weekend Runners Club",
+   "blurb": "Easy-pace group runs on the Big Creek Greenway. All paces welcome.",
+   "next_meeting": "Sun 7:30 AM",
+   "base_members": 85,
+   "teen_safe": false,
+   "tags": [
+    "running",
+    "jogging",
+    "greenway"
+   ],
+   "verified": false
+  },
+  {
+   "id": 2,
+   "slug": "forsyth-morning-walkers",
+   "name": "Forsyth Morning Walkers",
+   "blurb": "A friendly walking group that meets at local parks.",
+   "next_meeting": "Sat 9 AM",
+   "base_members": 127,
+   "teen_safe": false,
+   "tags": [
+    "walking",
+    "morning",
+    "seniors"
+   ],
+   "verified": false
+  },
+  {
+   "id": 3,
+   "slug": "recovery-buddies",
+   "name": "Recovery Buddies",
+   "blurb": "Teens getting back on their feet after injury or surgery. Moderated; no private messages between adults and teens.",
+   "next_meeting": "Wed 7 PM check-in (video)",
+   "base_members": 23,
+   "teen_safe": true,
+   "tags": [
+    "recovery",
+    "surgery",
+    "injury",
+    "teens",
+    "school"
+   ],
+   "verified": false
+  },
+  {
+   "id": 4,
+   "slug": "senior-fitness-friends",
+   "name": "Senior Fitness Friends",
+   "blurb": "Gentle strength and balance with neighbors.",
+   "next_meeting": "Weekdays 10 AM",
+   "base_members": 41,
+   "teen_safe": false,
+   "tags": [
+    "seniors",
+    "fitness"
+   ],
+   "verified": false
+  },
+  {
+   "id": 5,
+   "slug": "forsyth-greenway-bikers",
+   "name": "Greenway Bikers",
+   "blurb": "Casual rides on Big Creek Greenway.",
+   "next_meeting": "Sat 8 AM",
+   "base_members": 58,
+   "teen_safe": false,
+   "tags": [
+    "biking",
+    "greenway"
+   ],
+   "verified": false
+  }
+ ],
+ "events": [
+  {
+   "id": 1,
+   "slug": "jazzercise-lawn-oct-23",
+   "title": "Jazzercise Move & Groove on the Lawn",
+   "starts_at": "2026-10-23T12:30:00+00:00",
+   "location": "Lou Sobh Amphitheater, Cumming City Center, 423 Canton Rd, Cumming",
+   "blurb": "8:30–9:30 a.m. A morning Jazzercise class for all fitness levels; bring water. Repeats weekly on Fridays. Presented by Cumming City Center.",
+   "base_going": 0,
+   "source_url": "https://discoverfoco.com/event/friday-mood-jazzercise-move-groove-on-the-lawn/2026-10-23/",
+   "tags": [
+    "fitness",
+    "exercise",
+    "class",
+    "outdoor"
+   ],
+   "verified": true
+  },
+  {
+   "id": 2,
+   "slug": "cumming-farmers-market-oct-24",
+   "title": "Cumming Farmers Market",
+   "starts_at": "2026-10-24T11:00:00+00:00",
+   "location": "Cumming City Center, 423 Canton Rd, Cumming",
+   "blurb": "7–11 a.m. Fresh local produce and food.",
+   "base_going": 0,
+   "source_url": "https://discoverfoco.com/event/cumming-farmers-market-at-cumming-city-center/2026-10-24/",
+   "tags": [
+    "food",
+    "nutrition",
+    "healthy eating",
+    "market"
+   ],
+   "verified": true
+  },
+  {
+   "id": 3,
+   "slug": "yoga-on-the-green-oct-26",
+   "title": "Monday Mood: Yoga on the Green",
+   "starts_at": "2026-10-26T22:00:00+00:00",
+   "location": "Lou Sobh Amphitheater, Cumming City Center, 423 Canton Rd, Cumming",
+   "blurb": "6–7 p.m. Outdoor yoga class. Presented by Cumming City Center.",
+   "base_going": 0,
+   "source_url": "https://discoverfoco.com/event/monday-mood-yoga-on-the-green/2026-10-26/",
+   "tags": [
+    "yoga",
+    "fitness",
+    "stress",
+    "wellness",
+    "outdoor"
+   ],
+   "verified": true
+  },
+  {
+   "id": 4,
+   "slug": "nami-connection-oct-27",
+   "title": "NAMI Connection Support Group",
+   "starts_at": "2026-10-27T22:45:00+00:00",
+   "location": "Forsyth County United Way, 240 Elm St, Cumming",
+   "blurb": "6:45–8:15 p.m. In-person peer support group for mental health, run by NAMI Forsyth, Dawson, Lumpkin. Meets the 2nd and 4th Tuesday of each month. No reservation needed.",
+   "base_going": 0,
+   "source_url": "https://namifdl.org/event/nami-connection-support-group-meeting-in-person-4th-tuesday/2026-10-27/",
+   "tags": [
+    "mental health",
+    "support group",
+    "stress",
+    "stressed",
+    "anxiety",
+    "anxious",
+    "depression",
+    "depressed",
+    "peer"
+   ],
+   "verified": true
+  },
+  {
+   "id": 5,
+   "slug": "nami-family-oct-27",
+   "title": "NAMI Family Support Group",
+   "starts_at": "2026-10-27T22:45:00+00:00",
+   "location": "Forsyth County United Way, 240 Elm St, Cumming",
+   "blurb": "6:45–8:15 p.m. In-person group for families and friends of someone with a mental health condition. 2nd and 4th Tuesdays. Run by NAMI Forsyth, Dawson, Lumpkin.",
+   "base_going": 0,
+   "source_url": "https://namifdl.org/event/nami-family-support-group-meeting-in-cumming-in-person-4th-tuesday/2026-10-27/",
+   "tags": [
+    "mental health",
+    "support group",
+    "family",
+    "parent"
+   ],
+   "verified": true
+  },
+  {
+   "id": 6,
+   "slug": "nami-connection-nov-10",
+   "title": "NAMI Connection Support Group",
+   "starts_at": "2026-11-10T23:45:00+00:00",
+   "location": "Forsyth County United Way, 240 Elm St, Cumming",
+   "blurb": "6:45–8:15 p.m. In-person peer support group for mental health. 2nd and 4th Tuesdays. Run by NAMI Forsyth, Dawson, Lumpkin.",
+   "base_going": 0,
+   "source_url": "https://namifdl.org/event/nami-connection-support-group-meeting-in-person-2nd-tuesday/2026-11-10/",
+   "tags": [
+    "mental health",
+    "support group",
+    "stress",
+    "stressed",
+    "anxiety",
+    "anxious",
+    "depression",
+    "depressed",
+    "peer"
+   ],
+   "verified": true
+  },
+  {
+   "id": 7,
+   "slug": "nami-family-nov-10",
+   "title": "NAMI Family Support Group",
+   "starts_at": "2026-11-10T23:45:00+00:00",
+   "location": "Forsyth County United Way, 240 Elm St, Cumming",
+   "blurb": "6:45–8:15 p.m. In-person group for families and friends of someone with a mental health condition. Run by NAMI Forsyth, Dawson, Lumpkin.",
+   "base_going": 0,
+   "source_url": "https://namifdl.org/event/nami-family-support-group-meeting-in-cumming-in-person-2nd-tuesday/2026-11-10/",
+   "tags": [
+    "mental health",
+    "support group",
+    "family",
+    "parent"
+   ],
+   "verified": true
+  }
+ ],
+ "announcements": [
+  {
+   "id": 1,
+   "title": "Water treatment plant upgrades celebrated with a ribbon cutting (June 2026)",
+   "body": "Forsyth County held a ribbon-cutting ceremony for upgrades to the county’s water treatment plant.",
+   "source_url": "https://www.forsythco.com/news/2026/06/ribbon-cutting-ceremony-held-for-forsyth-county-water-treatment-plant-upgrades/",
+   "published_at": "2026-06-15T16:00:00+00:00",
+   "official": true,
+   "verified": true
+  },
+  {
+   "id": 2,
+   "title": "Matt Schoolhouse Community Building opens (May 2026)",
+   "body": "Forsyth County held a ribbon-cutting ceremony for the opening of the Matt Schoolhouse Community Building.",
+   "source_url": "https://www.forsythco.com/news/2026/05/ribbon-cutting-ceremony-held-for-opening-of-matt-schoolhouse-community-building/",
+   "published_at": "2026-05-15T16:00:00+00:00",
+   "official": true,
+   "verified": true
+  },
+  {
+   "id": 3,
+   "title": "Bennett Park reopens after a $25.8 million renovation (April 2026)",
+   "body": "The county’s oldest park reopened with two turf fields, three ball fields, two basketball courts, a playground, a community building, expanded parking and new paved and nature trails.",
+   "source_url": "https://hoodline.com/2026/04/forsyth-s-oldest-park-gets-25-8m-glow-up-as-bennett-reopens-big-for-families/",
+   "published_at": "2026-04-30T16:00:00+00:00",
+   "official": true,
+   "verified": true
+  },
+  {
+   "id": 4,
+   "title": "New county administration campus at Freedom Park opens (March 2026)",
+   "body": "Open houses were held March 18 and 21, and county offices moved to 2435 Freedom Parkway on March 30. The campus also has a one-mile paved multi-use trail and a nature trail open to the public.",
+   "source_url": "https://www.forsythco.com/News/forsyth-county-to-dedicate-new-freedom-park-campus-and-provide-open-houses-to-public",
+   "published_at": "2026-03-18T16:00:00+00:00",
+   "official": true,
+   "verified": true
+  }
+ ],
+ "projects": [
+  {
+   "id": 1,
+   "slug": "greenway-renovation",
+   "title": "Big Creek Greenway renovation (Fowler Park to Bethelview)",
+   "status": "In progress",
+   "summary": "A section of the Greenway from Fowler Park north to the Bethelview Trailhead has been temporarily closed since Feb. 25, 2026 as the next renovation phase began. Check the county page for reopening news.",
+   "source_url": "https://www.forsythco.com/locations/big-creek-greenway/",
+   "verified": true
+  },
+  {
+   "id": 2,
+   "slug": "old-atlanta-road-widening",
+   "title": "Old Atlanta Road widening, Phases 4 and 5",
+   "status": "In progress",
+   "summary": "A county road-widening project. The county’s Capital Projects team posts progress updates and what drivers should expect.",
+   "source_url": "https://www.forsythco.com/government/major-construction-projects/old-atlanta-road-widening-phases-4-5/",
+   "verified": true
+  },
+  {
+   "id": 3,
+   "slug": "lake-lanier-water-projects",
+   "title": "Lake Lanier water intake and return flow projects",
+   "status": "In progress",
+   "summary": "Work to bring the county closer to water independence, including return-flow pipeline construction at Sanders Road and Buford Dam Road, where lane closures were expected through March 2026.",
+   "source_url": "https://www.forsythco.com/waterprojects",
+   "verified": true
+  },
+  {
+   "id": 4,
+   "slug": "greenway-sr20-gap",
+   "title": "Close the ~1-mile Big Creek Greenway gap along SR 20",
+   "status": "Planned with GDOT widening",
+   "summary": "A roughly one-mile segment parallel to SR 20 will connect the existing portions as part of GDOT’s planned Canton Highway widening.",
+   "source_url": "https://www.forsythco.com/News/ribbon-cutting-ceremony-set-for-big-creek-greenway-extension2",
+   "verified": true
+  },
+  {
+   "id": 5,
+   "slug": "capital-improvement-program",
+   "title": "Five-year Capital Improvement Program, 2026–2030",
+   "status": "Plan published",
+   "summary": "The county’s five-year list of planned roads, parks, buildings and water projects.",
+   "source_url": "https://www.forsythco.com/Portals/0/DeptDoc/Finance/Budget/Capital%20Improvement%20Program/2026-2030%20Forsyth%20County%205%20year%20Capital%20Improvement%20Program.pdf",
+   "verified": true
+  },
+  {
+   "id": 6,
+   "slug": "water-treatment-plant-upgrades",
+   "title": "Water treatment plant upgrades",
+   "status": "Completed · June 2026",
+   "summary": "Upgrades to the county’s water treatment plant were celebrated with a ribbon cutting.",
+   "source_url": "https://www.forsythco.com/news/2026/06/ribbon-cutting-ceremony-held-for-forsyth-county-water-treatment-plant-upgrades/",
+   "verified": true
+  },
+  {
+   "id": 7,
+   "slug": "matt-schoolhouse-community-building",
+   "title": "Matt Schoolhouse Community Building",
+   "status": "Completed · May 2026",
+   "summary": "A new community building, opened with a ribbon-cutting ceremony.",
+   "source_url": "https://www.forsythco.com/news/2026/05/ribbon-cutting-ceremony-held-for-opening-of-matt-schoolhouse-community-building/",
+   "verified": true
+  },
+  {
+   "id": 8,
+   "slug": "bennett-park-renovation",
+   "title": "Bennett Park renovation",
+   "status": "Completed · April 2026",
+   "summary": "$25.8 million renovation of the county’s oldest park: turf and ball fields, courts, playground, community building, parking and new paved and nature trails.",
+   "source_url": "https://hoodline.com/2026/04/forsyth-s-oldest-park-gets-25-8m-glow-up-as-bennett-reopens-big-for-families/",
+   "verified": true
+  },
+  {
+   "id": 9,
+   "slug": "freedom-park-campus",
+   "title": "Freedom Park county administration campus",
+   "status": "Completed · March 2026",
+   "summary": "A 135,000-square-foot administration building at 2435 Freedom Parkway, with a one-mile paved multi-use trail and a nature trail open to the public.",
+   "source_url": "https://www.forsythco.com/News/forsyth-county-to-dedicate-new-freedom-park-campus-and-provide-open-houses-to-public",
+   "verified": true
+  },
+  {
+   "id": 10,
+   "slug": "sawnee-mountain-preserve-renovation",
+   "title": "Sawnee Mountain Preserve renovation (Phase 4A)",
+   "status": "Completed · December 2024",
+   "summary": "About $3 million for 50 more parking spaces, refreshed visitor center exhibits, new trail signs and maps, pavilions and a new walkway to the Big Creek Greenway.",
+   "source_url": "https://www.forsythco.com/News/ribbon-cutting-ceremony-held-for-renovations-at-sawnee-mountain-preserve",
+   "verified": true
+  },
+  {
+   "id": 11,
+   "slug": "ronald-reagan-boulevard-extension",
+   "title": "Ronald Reagan Boulevard extension",
+   "status": "Completed · June 2024",
+   "summary": "The extension of Ronald Reagan Boulevard is open to traffic.",
+   "source_url": "https://www.forsythco.com/news/2024/06/video-ronald-reagan-boulevard-extension-now-open/",
+   "verified": true
+  }
+ ],
+ "meetings": [
+  {
+   "id": 1,
+   "slug": "board-of-commissioners",
+   "title": "Board of Commissioners regular meeting",
+   "schedule": "First and third Thursdays, 5:00 p.m. (public hearings with the first-Thursday meeting)",
+   "location": "Commissioners’ Meeting Room, Suite 220, County Administration Building, 110 East Main Street, Cumming",
+   "blurb": "Open to the public. Watch online, or on TV Forsyth (Comcast 23, AT&T 99).",
+   "source_url": "https://www.forsythco.com/boc",
+   "verified": true
+  },
+  {
+   "id": 2,
+   "slug": "boc-work-sessions",
+   "title": "Board of Commissioners work session",
+   "schedule": "Second and fourth Tuesdays, 2:00 p.m.",
+   "location": "Commissioners’ Conference Room, Suite 210, 110 East Main Street, Cumming",
+   "blurb": "Same building as regular meetings.",
+   "source_url": "https://www.forsythco.com/boc",
+   "verified": true
+  },
+  {
+   "id": 3,
+   "slug": "board-of-health",
+   "title": "Board of Health quarterly meeting",
+   "schedule": "2026: Jan 8, Apr 9, Jul 9, Oct 8 at 5:00 p.m.",
+   "location": "Conference room, Forsyth County Health Department, 428 Canton Hwy",
+   "blurb": "Check forsythhd.com for next year’s dates.",
+   "source_url": "http://forsythhd.com/",
+   "verified": true
+  },
+  {
+   "id": 4,
+   "slug": "parks-trails-forum",
+   "title": "Parks & Trails Planning Forum",
+   "schedule": "[DATE] · sample",
+   "location": "[LOCATION]",
+   "blurb": "Sample forum for the demo.",
+   "source_url": "",
+   "verified": false
+  }
+ ],
+ "ideas": [
+  {
+   "id": 1,
+   "slug": "safe-walk-to-the-park",
+   "title": "A safe walk to the park",
+   "body": "Add a sidewalk and lit crossing on [STREET NAME] so kids and neighbors can walk to the park.",
+   "status": "Open",
+   "base_support": 192,
+   "base_concerns": 19,
+   "verified": false
+  },
+  {
+   "id": 2,
+   "slug": "shade-and-water-on-greenway",
+   "title": "Shade and water stops on the Greenway",
+   "body": "More benches, shade and drinking fountains for long walks and runs.",
+   "status": "Open",
+   "base_support": 88,
+   "base_concerns": 6,
+   "verified": false
+  },
+  {
+   "id": 3,
+   "slug": "teen-recovery-network",
+   "title": "School-to-home learning help for long recoveries",
+   "body": "A county-wide way for students out for weeks to join class and get tutoring.",
+   "status": "Open",
+   "base_support": 61,
+   "base_concerns": 3,
+   "verified": false
+  }
+ ],
+ "areas": [
+  {
+   "name": "North",
+   "base_miles": 82.0,
+   "goal_miles": 100.0
+  },
+  {
+   "name": "West",
+   "base_miles": 69.8,
+   "goal_miles": 100.0
+  },
+  {
+   "name": "Central",
+   "base_miles": 64.0,
+   "goal_miles": 100.0
+  },
+  {
+   "name": "South",
+   "base_miles": 59.0,
+   "goal_miles": 100.0
+  }
+ ],
+ "issue_matrix": [
+  {
+   "area": "Central",
+   "category": "lighting",
+   "n": 5
+  },
+  {
+   "area": "Central",
+   "category": "other",
+   "n": 3
+  },
+  {
+   "area": "Central",
+   "category": "sidewalk",
+   "n": 7
+  },
+  {
+   "area": "North",
+   "category": "park",
+   "n": 6
+  },
+  {
+   "area": "North",
+   "category": "trail",
+   "n": 6
+  },
+  {
+   "area": "South",
+   "category": "other",
+   "n": 4
+  },
+  {
+   "area": "South",
+   "category": "park",
+   "n": 5
+  },
+  {
+   "area": "West",
+   "category": "crossing",
+   "n": 5
+  },
+  {
+   "area": "West",
+   "category": "lighting",
+   "n": 9
+  },
+  {
+   "area": "West",
+   "category": "sidewalk",
+   "n": 24
+  }
+ ]
+}
